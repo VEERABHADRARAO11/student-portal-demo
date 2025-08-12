@@ -1,0 +1,24 @@
+Student Profile
+Student ID: 2358250074
+
+Name: Veera Bhadra Rao Gokeda
+
+Gender: Male
+
+Date of Birth: 11-11-2005
+
+Email: verrabhadraraogokeda@gmail.com
+
+Phone: +91 9154920639
+
+Address: Bangaramma gudi vedhi d.no 12-1-15 peddapuram, Andhra Pradesh
+
+Course: BCA (Computer Science)
+
+Year/Semester: 3rd Year / 5th Semester
+
+Roll Number: 20
+
+Father  Name: Gokeda Durga prasad
+
+Guardian Contact: +91 9704312445
